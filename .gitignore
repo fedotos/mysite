@@ -1,0 +1,14 @@
+#Folder Logs
+dja/__pycache__/
+__pycache__/
+logs/
+
+#TxT files
+*.txt
+
+#IMG files
+img/
+
+#IDEA
+.idea/
+db.sqlite3
